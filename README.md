@@ -1,2 +1,0 @@
-# Jtable.java
-Jtable.java
